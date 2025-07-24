@@ -277,7 +277,7 @@ const Chat = () => {
       {open && (
         <div className="chat-window">
           <div className="chat-header">
-            <img src={BOT_AVATAR_LOGO} alt="HappyBot" className="chat-bot-avatar" />
+            <img src={BOT_AVATAR} alt="HappyBot" className="chat-bot-avatar" />
             <span className="chat-title">HappyBot</span>
             <button className="chat-close" onClick={() => setOpen(false)} aria-label="Close chat">×</button>
           </div>
