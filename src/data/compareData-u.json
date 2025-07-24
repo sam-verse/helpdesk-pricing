@@ -1,0 +1,529 @@
+{
+  "categories": [
+    {
+      "category": "",
+      "features": [
+        {
+          "name": "Number of agents",
+          "isLink": false,
+          "growth": "Unlimited",
+          "scale": "Unlimited",
+          "scalePlus": "Unlimited",
+          "ultimate": "Unlimited"
+        },
+        {
+          "name": "Tickets per year",
+          "isLink": false,
+          "growth": "20,000",
+          "scale": "150,000",
+          "scalePlus": "300,000",
+          "ultimate": "1,000,000"
+        },
+        {
+          "name": "Ticket overage",
+          "isLink": false,
+          "growth": "$0.03 /ticket/mo",
+          "scale": "$0.02 /ticket/mo",
+          "scalePlus": "$0.01 /ticket/mo",
+          "ultimate": "$0.01 /ticket/mo"
+        },
+        {
+          "name": "Custom Fields",
+          "isLink": false,
+          "growth": "20",
+          "scale": "100",
+          "scalePlus": "200",
+          "ultimate": "300"
+        }
+      ]
+    },
+    {
+      "category": "Ticket Management",
+      "features": [
+        {
+          "name": "Unlimited Mailboxes",
+          "growth": true,
+          "scale": true,
+          "scalePlus": true,
+          "ultimate": true,
+          "isLink": true
+        },
+        {
+          "name": "Unlimited Categories",
+          "growth": true,
+          "scale": true,
+          "scalePlus": true,
+          "ultimate": true,
+          "isLink": true
+        },
+        {
+          "name": "Unlimited Tickets",
+          "growth": true,
+          "scale": true,
+          "scalePlus": true,
+          "ultimate": true,
+          "isLink": true
+        },
+        {
+          "name": "Customizable Statuses",
+          "growth": true,
+          "scale": true,
+          "scalePlus": true,
+          "ultimate": true,
+          "isLink": true
+        },
+        {
+          "name": "Customizable Priorities",
+          "growth": true,
+          "scale": true,
+          "scalePlus": true,
+          "ultimate": true,
+          "isLink": true
+        },
+        {
+          "name": "Ticket Custom Fields",
+          "growth": true,
+          "scale": true,
+          "scalePlus": true,
+          "ultimate": true,
+          "isLink": true
+        },
+        {
+          "name": "Multilingual Agent Portal",
+          "growth": true,
+          "scale": true,
+          "scalePlus": true,
+          "ultimate": true,
+          "isLink": true
+        },
+        {
+          "name": "Agent Collision",
+          "growth": true,
+          "scale": true,
+          "scalePlus": true,
+          "ultimate": true,
+          "isLink": true
+        },
+        {
+          "name": "Work Schedules",
+          "growth": true,
+          "scale": true,
+          "scalePlus": true,
+          "ultimate": true,
+          "isLink": true
+        },
+        {
+          "name": "Ticket Tagging",
+          "growth": true,
+          "scale": true,
+          "scalePlus": true,
+          "ultimate": true,
+          "isLink": true
+        },
+        {
+          "name": "Email Notifications",
+          "growth": true,
+          "scale": true,
+          "scalePlus": true,
+          "ultimate": true,
+          "isLink": true
+        },
+        {
+          "name": "Bulk Editing",
+          "growth": true,
+          "scale": true,
+          "scalePlus": true,
+          "ultimate": true,
+          "isLink": true
+        },
+        {
+          "name": "Satisfaction Surveys",
+          "growth": false,
+          "scale": true,
+          "scalePlus": true,
+          "ultimate": true,
+          "isLink": true
+        },
+        {
+          "name": "Custom Domain Mapping",
+          "growth": false,
+          "scale": true,
+          "scalePlus": true,
+          "ultimate": true,
+          "isLink": true
+        },
+        {
+          "name": "Custom Roles and Permissions",
+          "growth": false,
+          "scale": true,
+          "scalePlus": true,
+          "ultimate": true,
+          "isLink": true
+        },
+        {
+          "name": "Custom Email",
+          "growth": false,
+          "scale": true,
+          "scalePlus": true,
+          "ultimate": true,
+          "isLink": true
+        },
+        {
+          "name": "Custom Ticket Queues",
+          "growth": false,
+          "scale": true,
+          "scalePlus": true,
+          "ultimate": true,
+          "isLink": true
+        },
+        {
+          "name": "Kanban view of tickets",
+          "growth": false,
+          "scale": true,
+          "scalePlus": true,
+          "ultimate": true,
+          "isLink": true
+        },
+        {
+          "name": "scalePlusactive Agent Collision",
+          "growth": false,
+          "scale": false,
+          "scalePlus": true,
+          "ultimate": true,
+          "isLink": true
+        },
+        {
+          "name": "SLA Live Timer",
+          "growth": false,
+          "scale": false,
+          "scalePlus": true,
+          "ultimate": true,
+          "isLink": true
+        },
+        {
+          "name": "Task Management",
+          "growth": false,
+          "scale": false,
+          "scalePlus": true,
+          "ultimate": true,
+          "isLink": true
+        },
+        {
+          "name": "Asset Management",
+          "growth": false,
+          "scale": false,
+          "scalePlus": true,
+          "ultimate": true,
+          "isLink": true
+        },
+        {
+          "name": "Unlimited Assets",
+          "growth": false,
+          "scale": false,
+          "scalePlus": true,
+          "ultimate": true,
+          "isLink": true
+        },
+        {
+          "name": "Category Wise Statuses",
+          "growth": false,
+          "scale": false,
+          "scalePlus": false,
+          "ultimate": true,
+          "isLink": true
+        },
+        {
+          "name": "Attachment Store",
+          "growth": "50 GB",
+          "scale": "500 GB",
+          "scalePlus": "1 TB",
+          "ultimate": "2 TB",
+          "isLink": true
+        }
+      ]
+    },
+    {
+      "category": "Customer Management",
+      "features": [
+        {
+          "name": "Unlimited Contacts",
+          "growth": true,
+          "scale": true,
+          "scalePlus": true,
+          "ultimate": true,
+          "isLink": true
+        },
+        {
+          "name": "Import Contacts",
+          "growth": true,
+          "scale": true,
+          "scalePlus": true,
+          "ultimate": true,
+          "isLink": true
+        },
+        {
+          "name": "Contact Custom Fields",
+          "growth": true,
+          "scale": true,
+          "scalePlus": true,
+          "ultimate": true,
+          "isLink": true
+        },
+        {
+          "name": "Unlimited Contact Groups",
+          "growth": true,
+          "scale": true,
+          "scalePlus": true,
+          "ultimate": true,
+          "isLink": true
+        },
+        {
+          "name": "Contact Group Custom Fields",
+          "growth": false,
+          "scale": false,
+          "scalePlus": true,
+          "ultimate": true,
+          "isLink": true
+        }
+      ]
+    },
+    {
+      "category": "Help Desk Automation",
+      "features": [
+        {
+          "name": "Smart Rule Automation",
+          "growth": true,
+          "scale": true,
+          "scalePlus": true,
+          "ultimate": true,
+          "isLink": true
+        },
+        {
+          "name": "Canned Actions (Macros)",
+          "growth": true,
+          "scale": true,
+          "scalePlus": true,
+          "ultimate": true,
+          "isLink": true
+        },
+        {
+          "name": "Ticket Templates",
+          "growth": true,
+          "scale": true,
+          "scalePlus": true,
+          "ultimate": true,
+          "isLink": true
+        },
+        {
+          "name": "Automatic Time Tracking",
+          "growth": true,
+          "scale": true,
+          "scalePlus": true,
+          "ultimate": true,
+          "isLink": true
+        },
+        {
+          "name": "SLA management",
+          "growth": true,
+          "scale": true,
+          "scalePlus": true,
+          "ultimate": true,
+          "isLink": true
+        },
+        {
+          "name": "SLA Breach Notification",
+          "growth": false,
+          "scale": true,
+          "scalePlus": true,
+          "ultimate": true,
+          "isLink": true
+        },
+        {
+          "name": "Round Robin Ticket Assignment",
+          "growth": false,
+          "scale": true,
+          "scalePlus": true,
+          "ultimate": true,
+          "isLink": true
+        }
+      ]
+    },
+    {
+      "category": "Third Party Integrations",
+      "features": [
+        {
+          "name": "Aircall",
+          "growth": false,
+          "scale": true,
+          "scalePlus": true,
+          "ultimate": true,
+          "isLink": true
+        },
+        {
+          "name": "Facebook",
+          "growth": "3 Pages",
+          "scale": "5 Pages",
+          "scalePlus": "7 Pages",
+          "ultimate": "10 Pages",
+          "isLink": true
+        },
+        {
+          "name": "Instagram",
+          "growth": false,
+          "scale": "1 account",
+          "scalePlus": "2 accounts",
+          "ultimate": "3 accounts",
+          "isLink": true
+        },
+        {
+          "name": "JIRA",
+          "growth": false,
+          "scale": true,
+          "scalePlus": true,
+          "ultimate": true,
+          "isLink": true
+        },
+        {
+          "name": "Microsoft scales",
+          "growth": false,
+          "scale": true,
+          "scalePlus": true,
+          "ultimate": true,
+          "isLink": true
+        },
+        {
+          "name": "Microsoft scales Meeting",
+          "growth": false,
+          "scale": true,
+          "scalePlus": true,
+          "ultimate": true,
+          "isLink": true
+        },
+        {
+          "name": "Slack",
+          "growth": false,
+          "scale": true,
+          "scalePlus": true,
+          "ultimate": true,
+          "isLink": true
+        }
+      ],
+      "extraFeatures": [
+        {
+          "name": "Zoom",
+          "growth": false,
+          "scale": true,
+          "scalePlus": true,
+          "ultimate": true,
+          "isLink": true
+        },
+        {
+          "name": "Google Workspace",
+          "growth": "growth",
+          "scale": "Standard",
+          "scalePlus": "Business",
+          "ultimate": "ultimate",
+          "isLink": true
+        },
+        {
+          "name": "Salesforce",
+          "growth": false,
+          "scale": false,
+          "scalePlus": true,
+          "ultimate": true,
+          "isLink": true
+        },
+        {
+          "name": "HubSpot",
+          "growth": false,
+          "scale": "Starter",
+          "scalePlus": "scalePlusfessional",
+          "ultimate": "ultimate",
+          "isLink": true
+        },
+        {
+          "name": "Zendesk",
+          "growth": false,
+          "scale": false,
+          "scalePlus": true,
+          "ultimate": true,
+          "isLink": true
+        },
+        {
+          "name": "Shopify",
+          "growth": false,
+          "scale": true,
+          "scalePlus": true,
+          "ultimate": true,
+          "isLink": true
+        },
+        {
+          "name": "Discord",
+          "growth": false,
+          "scale": false,
+          "scalePlus": true,
+          "ultimate": true,
+          "isLink": true
+        },
+        {
+          "name": "Twitter",
+          "growth": false,
+          "scale": "1 account",
+          "scalePlus": "3 accounts",
+          "ultimate": "5 accounts",
+          "isLink": true
+        }
+      ]
+    },
+    {
+      "category": "Inbuilt Integrations",
+      "features": [
+        {
+          "name": "Embeddable Widget",
+          "growth": true,
+          "scale": true,
+          "scalePlus": true,
+          "ultimate": true,
+          "isLink": true
+        },
+        {
+          "name": "Webhooks",
+          "growth": true,
+          "scale": true,
+          "scalePlus": true,
+          "ultimate": true,
+          "isLink": true
+        },
+        {
+          "name": "REST API (requests per minute)",
+          "growth": "100",
+          "scale": "200",
+          "scalePlus": "400",
+          "ultimate": "800",
+          "isLink": true
+        }
+      ]
+    },
+    {
+      "category": "Mobile",
+      "features": [
+        {
+          "name": "Asset Manager App",
+          "growth": false,
+          "scale": false,
+          "scalePlus": true,
+          "ultimate": true,
+          "isLink": true
+        },
+        {
+          "name": "Help Desk Mobile App",
+          "growth": true,
+          "scale": true,
+          "scalePlus": true,
+          "ultimate": true,
+          "isLink": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 9</title>
+    <g id="Nav" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="main-Nav-02" transform="translate(-232.000000, -209.000000)">
+            <g id="Group-19" transform="translate(202.000000, 60.000000)">
+                <g id="Group-13" transform="translate(30.000000, 147.000000)">
+                    <g id="Group-9" transform="translate(0.000000, 2.000000)">
+                        <path d="M10,20 L1.72413793,20 C0.772068966,20 0,19.227931 0,18.2758621 L0,10 C0,4.47724138 4.47724138,0 10,0 L10,0 C15.5227586,0 20,4.47724138 20,10 L20,10 C20,15.5227586 15.5227586,20 10,20" id="Fill-1" fill="#31C193"></path>
+                        <path d="M13.4482759,11.4137931 L6.20689655,11.4137931 C5.54034483,11.4137931 5,10.8734483 5,10.2068966 C5,9.54034483 5.54034483,9 6.20689655,9 L13.4482759,9 C14.1148276,9 14.6551724,9.54034483 14.6551724,10.2068966 C14.6551724,10.8734483 14.1148276,11.4137931 13.4482759,11.4137931" id="Fill-3" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

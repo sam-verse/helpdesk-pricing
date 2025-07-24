@@ -1,0 +1,505 @@
+{
+  "categories": [
+    {
+      "category": "",
+      "features": [
+        {
+          "name": "Number of agents",
+          "basic": "Up to 5",
+          "team": "No limit",
+          "pro": "No limit",
+          "enterprise": "No limit",
+          "isLink": false
+        }
+      ]
+    },
+    {
+      "category": "Ticket Management",
+      "features": [
+        {
+          "name": "Unlimited Mailboxes",
+          "basic": true,
+          "team": true,
+          "pro": true,
+          "enterprise": true,
+          "isLink": true
+        },
+        {
+          "name": "Unlimited Categories",
+          "basic": true,
+          "team": true,
+          "pro": true,
+          "enterprise": true,
+          "isLink": true
+        },
+        {
+          "name": "Unlimited Tickets",
+          "basic": true,
+          "team": true,
+          "pro": true,
+          "enterprise": true,
+          "isLink": true
+        },
+        {
+          "name": "Customizable Statuses",
+          "basic": true,
+          "team": true,
+          "pro": true,
+          "enterprise": true,
+          "isLink": true
+        },
+        {
+          "name": "Customizable Priorities",
+          "basic": true,
+          "team": true,
+          "pro": true,
+          "enterprise": true,
+          "isLink": true
+        },
+        {
+          "name": "Ticket Custom Fields",
+          "basic": true,
+          "team": true,
+          "pro": true,
+          "enterprise": true,
+          "isLink": true
+        },
+        {
+          "name": "Multilingual Agent Portal",
+          "basic": true,
+          "team": true,
+          "pro": true,
+          "enterprise": true,
+          "isLink": true
+        },
+        {
+          "name": "Agent Collision",
+          "basic": true,
+          "team": true,
+          "pro": true,
+          "enterprise": true,
+          "isLink": true
+        },
+        {
+          "name": "Work Schedules",
+          "basic": true,
+          "team": true,
+          "pro": true,
+          "enterprise": true,
+          "isLink": true
+        },
+        {
+          "name": "Ticket Tagging",
+          "basic": true,
+          "team": true,
+          "pro": true,
+          "enterprise": true,
+          "isLink": true
+        },
+        {
+          "name": "Email Notifications",
+          "basic": true,
+          "team": true,
+          "pro": true,
+          "enterprise": true,
+          "isLink": true
+        },
+        {
+          "name": "Bulk Editing",
+          "basic": true,
+          "team": true,
+          "pro": true,
+          "enterprise": true,
+          "isLink": true
+        },
+        {
+          "name": "Satisfaction Surveys",
+          "basic": false,
+          "team": true,
+          "pro": true,
+          "enterprise": true,
+          "isLink": true
+        },
+        {
+          "name": "Custom Domain Mapping",
+          "basic": false,
+          "team": true,
+          "pro": true,
+          "enterprise": true,
+          "isLink": true
+        },
+        {
+          "name": "Custom Roles and Permissions",
+          "basic": false,
+          "team": true,
+          "pro": true,
+          "enterprise": true,
+          "isLink": true
+        },
+        {
+          "name": "Custom Email",
+          "basic": false,
+          "team": true,
+          "pro": true,
+          "enterprise": true,
+          "isLink": true
+        },
+        {
+          "name": "Custom Ticket Queues",
+          "basic": false,
+          "team": true,
+          "pro": true,
+          "enterprise": true,
+          "isLink": true
+        },
+        {
+          "name": "Kanban view of tickets",
+          "basic": false,
+          "team": true,
+          "pro": true,
+          "enterprise": true,
+          "isLink": true
+        },
+        {
+          "name": "Proactive Agent Collision",
+          "basic": false,
+          "team": false,
+          "pro": true,
+          "enterprise": true,
+          "isLink": true
+        },
+        {
+          "name": "SLA Live Timer",
+          "basic": false,
+          "team": false,
+          "pro": true,
+          "enterprise": true,
+          "isLink": true
+        },
+        {
+          "name": "Task Management",
+          "basic": false,
+          "team": false,
+          "pro": true,
+          "enterprise": true,
+          "isLink": true
+        },
+        {
+          "name": "Asset Management",
+          "basic": false,
+          "team": false,
+          "pro": true,
+          "enterprise": true,
+          "isLink": true
+        },
+        {
+          "name": "Unlimited Assets",
+          "basic": false,
+          "team": false,
+          "pro": true,
+          "enterprise": true,
+          "isLink": true
+        },
+        {
+          "name": "Category Wise Statuses",
+          "basic": false,
+          "team": false,
+          "pro": false,
+          "enterprise": true,
+          "isLink": true
+        },
+        {
+          "name": "Attachment Store",
+          "basic": "50 GB",
+          "team": "500 GB",
+          "pro": "1 TB",
+          "enterprise": "2 TB",
+          "isLink": true
+        }
+      ]
+    },
+    {
+      "category": "Customer Management",
+      "features": [
+        {
+          "name": "Unlimited Contacts",
+          "basic": true,
+          "team": true,
+          "pro": true,
+          "enterprise": true,
+          "isLink": true
+        },
+        {
+          "name": "Import Contacts",
+          "basic": true,
+          "team": true,
+          "pro": true,
+          "enterprise": true,
+          "isLink": true
+        },
+        {
+          "name": "Contact Custom Fields",
+          "basic": true,
+          "team": true,
+          "pro": true,
+          "enterprise": true,
+          "isLink": true
+        },
+        {
+          "name": "Unlimited Contact Groups",
+          "basic": true,
+          "team": true,
+          "pro": true,
+          "enterprise": true,
+          "isLink": true
+        },
+        {
+          "name": "Contact Group Custom Fields",
+          "basic": false,
+          "team": false,
+          "pro": true,
+          "enterprise": true,
+          "isLink": true
+        }
+      ]
+    },
+    {
+      "category": "Help Desk Automation",
+      "features": [
+        {
+          "name": "Smart Rule Automation",
+          "basic": true,
+          "team": true,
+          "pro": true,
+          "enterprise": true,
+          "isLink": true
+        },
+        {
+          "name": "Canned Actions (Macros)",
+          "basic": true,
+          "team": true,
+          "pro": true,
+          "enterprise": true,
+          "isLink": true
+        },
+        {
+          "name": "Ticket Templates",
+          "basic": true,
+          "team": true,
+          "pro": true,
+          "enterprise": true,
+          "isLink": true
+        },
+        {
+          "name": "Automatic Time Tracking",
+          "basic": true,
+          "team": true,
+          "pro": true,
+          "enterprise": true,
+          "isLink": true
+        },
+        {
+          "name": "SLA management",
+          "basic": true,
+          "team": true,
+          "pro": true,
+          "enterprise": true,
+          "isLink": true
+        },
+        {
+          "name": "SLA Breach Notification",
+          "basic": false,
+          "team": true,
+          "pro": true,
+          "enterprise": true,
+          "isLink": true
+        },
+        {
+          "name": "Round Robin Ticket Assignment",
+          "basic": false,
+          "team": true,
+          "pro": true,
+          "enterprise": true,
+          "isLink": true
+        }
+      ]
+    },
+    {
+      "category": "Third Party Integrations",
+      "features": [
+        {
+          "name": "Aircall",
+          "basic": false,
+          "team": true,
+          "pro": true,
+          "enterprise": true,
+          "isLink": true
+        },
+        {
+          "name": "Facebook",
+          "basic": "3 Pages",
+          "team": "5 Pages",
+          "pro": "7 Pages",
+          "enterprise": "10 Pages",
+          "isLink": true
+        },
+        {
+          "name": "Instagram",
+          "basic": false,
+          "team": "1 account",
+          "pro": "2 accounts",
+          "enterprise": "3 accounts",
+          "isLink": true
+        },
+        {
+          "name": "JIRA",
+          "basic": false,
+          "team": true,
+          "pro": true,
+          "enterprise": true,
+          "isLink": true
+        },
+        {
+          "name": "Microsoft Teams",
+          "basic": false,
+          "team": true,
+          "pro": true,
+          "enterprise": true,
+          "isLink": true
+        },
+        {
+          "name": "Microsoft Teams Meeting",
+          "basic": false,
+          "team": true,
+          "pro": true,
+          "enterprise": true,
+          "isLink": true
+        },
+        {
+          "name": "Slack",
+          "basic": false,
+          "team": true,
+          "pro": true,
+          "enterprise": true,
+          "isLink": true
+        }
+      ],
+      "extraFeatures": [
+        {
+          "name": "Zoom",
+          "basic": false,
+          "team": true,
+          "pro": true,
+          "enterprise": true,
+          "isLink": true
+        },
+        {
+          "name": "Google Workspace",
+          "basic": "Basic",
+          "team": "Standard",
+          "pro": "Business",
+          "enterprise": "Enterprise",
+          "isLink": true
+        },
+        {
+          "name": "Salesforce",
+          "basic": false,
+          "team": false,
+          "pro": true,
+          "enterprise": true,
+          "isLink": true
+        },
+        {
+          "name": "HubSpot",
+          "basic": false,
+          "team": "Starter",
+          "pro": "Professional",
+          "enterprise": "Enterprise",
+          "isLink": true
+        },
+        {
+          "name": "Zendesk",
+          "basic": false,
+          "team": false,
+          "pro": true,
+          "enterprise": true,
+          "isLink": true
+        },
+        {
+          "name": "Shopify",
+          "basic": false,
+          "team": true,
+          "pro": true,
+          "enterprise": true,
+          "isLink": true
+        },
+        {
+          "name": "Discord",
+          "basic": false,
+          "team": false,
+          "pro": true,
+          "enterprise": true,
+          "isLink": true
+        },
+        {
+          "name": "Twitter",
+          "basic": false,
+          "team": "1 account",
+          "pro": "3 accounts",
+          "enterprise": "5 accounts",
+          "isLink": true
+        }
+      ]
+    },
+    {
+      "category": "Inbuilt Integrations",
+      "features": [
+        {
+          "name": "Embeddable Widget",
+          "basic": true,
+          "team": true,
+          "pro": true,
+          "enterprise": true,
+          "isLink": true
+        },
+        {
+          "name": "Webhooks",
+          "basic": true,
+          "team": true,
+          "pro": true,
+          "enterprise": true,
+          "isLink": true
+        },
+        {
+          "name": "REST API (requests per minute)",
+          "basic": "100",
+          "team": "200",
+          "pro": "400",
+          "enterprise": "800",
+          "isLink": true
+        }
+      ]
+    },
+    {
+      "category": "Mobile",
+      "features": [
+        {
+          "name": "Asset Manager App",
+          "basic": false,
+          "team": false,
+          "pro": true,
+          "enterprise": true,
+          "isLink": true
+        },
+        {
+          "name": "Help Desk Mobile App",
+          "basic": true,
+          "team": true,
+          "pro": true,
+          "enterprise": true,
+          "isLink": true
+        }
+      ]
+    }
+  ]
+}
