@@ -10,7 +10,7 @@ const More = () => {
         <div className="more-grid">
           <div className="more-card">
             <div className="card-icon">
-              <img src="//assets.www.happyfox.com/v2/images/pricing-lc.svg" alt="" srcset="" />
+              <img src="//assets.www.happyfox.com/v2/images/pricing-lc.svg" alt=""  />
             </div>
             <h3 className="card-title">Live Chat</h3>
             <p className="card-description">
@@ -23,7 +23,7 @@ const More = () => {
 
           <div className="more-card">
             <div className="card-icon">
-              <img src="//assets.www.happyfox.com/v2/images/pricing-cb.svg" alt="" srcset="" />
+              <img src="//assets.www.happyfox.com/v2/images/pricing-cb.svg" alt=""  />
             </div>
             <h3 className="card-title">Chatbot</h3>
             <p className="card-description">
@@ -36,7 +36,7 @@ const More = () => {
 
           <div className="more-card">
             <div className="card-icon">
-              <img src="//assets.www.happyfox.com/v2/images/pricing-ai.svg" alt="" srcset="" />
+              <img src="//assets.www.happyfox.com/v2/images/pricing-ai.svg" alt=""  />
             </div>
             <h3 className="card-title">Assist AI</h3>
             <p className="card-description">
@@ -49,7 +49,7 @@ const More = () => {
 
           <div className="more-card">
             <div className="card-icon">
-              <img src="//assets.www.happyfox.com/v2/images/pricing-bi.svg" alt="" srcset="" />
+              <img src="//assets.www.happyfox.com/v2/images/pricing-bi.svg" alt=""  />
             </div>
             <h3 className="card-title">Business Intelligence</h3>
             <p className="card-description">
@@ -62,7 +62,7 @@ const More = () => {
 
           <div className="more-card">
             <div className="card-icon">
-              <img src="//assets.www.happyfox.com/v2/images/pricing-wa.svg" alt="" srcset="" />
+              <img src="//assets.www.happyfox.com/v2/images/pricing-wa.svg" alt=""  />
             </div>
             <h3 className="card-title">Workflow Automation</h3>
             <p className="card-description">
