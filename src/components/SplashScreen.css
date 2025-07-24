@@ -1,0 +1,41 @@
+.splash-screen {
+  position: fixed;
+  z-index: 9999;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: opacity 0.6s cubic-bezier(0.4,0,0.2,1), visibility 0.6s;
+  opacity: 1;
+  visibility: visible;
+}
+.splash-logo {
+  width: 200px;
+  height: 200px;
+  animation: splash-pop 1.2s cubic-bezier(0.4,0,0.2,1);
+  border-radius: 18px;
+  background: #fff;
+}
+@keyframes splash-pop {
+  0% {
+    opacity: 0;
+    transform: scale(0.7);
+  }
+  60% {
+    opacity: 1;
+    transform: scale(1.08);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+.splash-hide {
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+} 
