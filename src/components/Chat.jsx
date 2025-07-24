@@ -4,7 +4,7 @@ import BOT_AVATAR_WHITE from '../assets/happyfox-white.png';
 import BOT_AVATAR_LOGO from '../assets/favicon.svg';
 
 const BOT_NAME = 'HappyBot';
-const BOT_AVATAR = '/src/assets/favicon.svg';
+// const BOT_AVATAR = '/src/assets/favicon.svg';
 const USER_AVATAR = 'https://ui-avatars.com/api/?name=You&background=ff6b35&color=fff&rounded=true&size=48';
 
 // 1. Move your FAQ data here (copy from questions.json)
@@ -285,7 +285,7 @@ const Chat = () => {
             {messages.map((msg, i) => (
               <div key={i} className={`chat-msg ${msg.from}`}> 
                 <img
-                  src={msg.from === 'bot' ? BOT_AVATAR : USER_AVATAR}
+                  src={msg.from === 'bot' ? BOT_AVATAR_LOGO : USER_AVATAR}
                   alt={msg.from === 'bot' ? BOT_NAME : 'You'}
                   className="chat-avatar"
                 />
