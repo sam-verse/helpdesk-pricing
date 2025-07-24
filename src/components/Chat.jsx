@@ -5,6 +5,7 @@ import BOT_AVATAR_LOGO from '../assets/favicon.svg';
 
 const BOT_NAME = 'HappyBot';
 const BOT_AVATAR = '/src/assets/favicon.svg';
+// const BOT_AVATAR_WHITE = '/src/assets/happyfox-white.png';
 const USER_AVATAR = 'https://ui-avatars.com/api/?name=You&background=ff6b35&color=fff&rounded=true&size=48';
 
 function getBotReply(msg, faqs) {
